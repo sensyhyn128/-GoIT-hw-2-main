@@ -4,18 +4,16 @@ body {
     background-color: #FFFFFF;
 }
 
-.nav-list {
+ul {
     list-style-type: none;
+    margin: 0;
+    padding-left: 0;
 }
 
-address ul {
-    list-style-type: none;
+a {
+    text-decoration: none;
 }
 
-.features-list {
-    list-style-type: none;
-}
-
-.portfolio-list {
-    list-style-type: none;
+address {
+    font-style: normal;
 }
