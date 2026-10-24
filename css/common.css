@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #2E2F42;
+    background-color: #FFFFFF;
+}
+
+.nav-list {
+    list-style-type: none;
+}
+
+address ul {
+    list-style-type: none;
+}
+
+.features-list {
+    list-style-type: none;
+}
+
+.portfolio-list {
+    list-style-type: none;
+}
