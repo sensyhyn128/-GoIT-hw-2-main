@@ -1,0 +1,62 @@
+.logo {
+    color: #2E2F42;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 3%;
+    text-decoration: none;
+    font-style: bold;
+    text-transform: uppercase;}
+
+.logo span {
+    color: #4D5AE5;
+}
+
+.logo:hover,
+.logo:focus {
+    text-decoration: underline;
+}
+
+.nav-link {
+    color: #2E2F42;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    font-style: medium;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+ address a {
+    color:#434455;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    text-decoration: none;
+    font-style: regular;
+}
+
+address ul {
+    list-style-type: none;
+}
+
+h1 {
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 2%;
+    text-align: center;
+}
+
+
+
